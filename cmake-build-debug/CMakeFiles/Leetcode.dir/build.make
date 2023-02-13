@@ -326,135 +326,135 @@ CMakeFiles/Leetcode.dir/Solution895.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/Solution895.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution895.cpp -o CMakeFiles/Leetcode.dir/Solution895.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o: ../DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o: ../PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o: ../DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o: ../PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o: ../DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o: ../PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o: ../DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o: ../PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o: ../DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o: ../PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o: ../DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o: ../PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o: ../DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o: ../PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o: ../DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o: ../PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o: ../DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o: ../PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o: ../DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o: ../PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s
 
 CMakeFiles/Leetcode.dir/BinaryTreeProblem/Traverse.cpp.o: CMakeFiles/Leetcode.dir/flags.make
 CMakeFiles/Leetcode.dir/BinaryTreeProblem/Traverse.cpp.o: ../BinaryTreeProblem/Traverse.cpp
@@ -612,70 +612,70 @@ CMakeFiles/Leetcode.dir/BreadthFirstSeaerchProblem/Solution752.cpp.s: cmake_forc
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/BreadthFirstSeaerchProblem/Solution752.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BreadthFirstSeaerchProblem/Solution752.cpp -o CMakeFiles/Leetcode.dir/BreadthFirstSeaerchProblem/Solution752.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.o: ../DoublePointerProblem/SlidingWindowProblem/template.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/template.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.o: ../PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_43) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/template.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/template.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o: ../DoublePointerProblem/SlidingWindowProblem/Solution76.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o: ../PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_44) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o: ../DoublePointerProblem/SlidingWindowProblem/Solution567.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o: ../PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_45) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o: ../DoublePointerProblem/SlidingWindowProblem/Solution438.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o: ../PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_46) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o: CMakeFiles/Leetcode.dir/flags.make
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o: ../DoublePointerProblem/SlidingWindowProblem/Solution3.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o: ../PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_47) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp > CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp > CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i
 
-CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp -o CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s
+CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s
 
 CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution188.cpp.o: CMakeFiles/Leetcode.dir/flags.make
 CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution188.cpp.o: ../DynamicProgramProblem/maxProfit/Solution188.cpp
@@ -781,6 +781,19 @@ CMakeFiles/Leetcode.dir/DynamicProgramProblem/houseRobber/Solution337.cpp.s: cma
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/DynamicProgramProblem/houseRobber/Solution337.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DynamicProgramProblem/houseRobber/Solution337.cpp -o CMakeFiles/Leetcode.dir/DynamicProgramProblem/houseRobber/Solution337.cpp.s
 
+CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.o: CMakeFiles/Leetcode.dir/flags.make
+CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.o: ../PointerProblem/ReverseListProblem/Solution206.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Building CXX object CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.o -c /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/ReverseListProblem/Solution206.cpp
+
+CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/ReverseListProblem/Solution206.cpp > CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.i
+
+CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/nieweihao/UESTC/Code/CppProjects/Leetcode/PointerProblem/ReverseListProblem/Solution206.cpp -o CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.s
+
 # Object files for target Leetcode
 Leetcode_OBJECTS = \
 "CMakeFiles/Leetcode.dir/main.cpp.o" \
@@ -803,16 +816,16 @@ Leetcode_OBJECTS = \
 "CMakeFiles/Leetcode.dir/Solution891.cpp.o" \
 "CMakeFiles/Leetcode.dir/Solution813.cpp.o" \
 "CMakeFiles/Leetcode.dir/Solution895.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o" \
 "CMakeFiles/Leetcode.dir/BinaryTreeProblem/Traverse.cpp.o" \
 "CMakeFiles/Leetcode.dir/DynamicProgramProblem/Solution322.cpp.o" \
 "CMakeFiles/Leetcode.dir/BackTrackProblem/Solution78.cpp.o" \
@@ -825,11 +838,11 @@ Leetcode_OBJECTS = \
 "CMakeFiles/Leetcode.dir/BackTrackProblem/SolutionX.cpp.o" \
 "CMakeFiles/Leetcode.dir/BreadthFirstSeaerchProblem/Solution111.cpp.o" \
 "CMakeFiles/Leetcode.dir/BreadthFirstSeaerchProblem/Solution752.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o" \
-"CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o" \
 "CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution188.cpp.o" \
 "CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution121.cpp.o" \
 "CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution122.cpp.o" \
@@ -837,7 +850,8 @@ Leetcode_OBJECTS = \
 "CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution714.cpp.o" \
 "CMakeFiles/Leetcode.dir/DynamicProgramProblem/houseRobber/Solution198.cpp.o" \
 "CMakeFiles/Leetcode.dir/DynamicProgramProblem/houseRobber/Solution213.cpp.o" \
-"CMakeFiles/Leetcode.dir/DynamicProgramProblem/houseRobber/Solution337.cpp.o"
+"CMakeFiles/Leetcode.dir/DynamicProgramProblem/houseRobber/Solution337.cpp.o" \
+"CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.o"
 
 # External object files for target Leetcode
 Leetcode_EXTERNAL_OBJECTS =
@@ -862,16 +876,16 @@ Leetcode: CMakeFiles/Leetcode.dir/Solution792.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/Solution891.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/Solution813.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/Solution895.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/BinaryTreeProblem/Traverse.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/DynamicProgramProblem/Solution322.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/BackTrackProblem/Solution78.cpp.o
@@ -884,11 +898,11 @@ Leetcode: CMakeFiles/Leetcode.dir/BackTrackProblem/Solution39.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/BackTrackProblem/SolutionX.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/BreadthFirstSeaerchProblem/Solution111.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/BreadthFirstSeaerchProblem/Solution752.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o
-Leetcode: CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution188.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution121.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution122.cpp.o
@@ -897,9 +911,10 @@ Leetcode: CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution714.cp
 Leetcode: CMakeFiles/Leetcode.dir/DynamicProgramProblem/houseRobber/Solution198.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/DynamicProgramProblem/houseRobber/Solution213.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/DynamicProgramProblem/houseRobber/Solution337.cpp.o
+Leetcode: CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.o
 Leetcode: CMakeFiles/Leetcode.dir/build.make
 Leetcode: CMakeFiles/Leetcode.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_56) "Linking CXX executable Leetcode"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_57) "Linking CXX executable Leetcode"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Leetcode.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

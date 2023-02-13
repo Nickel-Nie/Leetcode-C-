@@ -393,366 +393,6 @@ BreadthFirstSeaerchProblem/Solution752.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/BreadthFirstSeaerchProblem/Solution752.cpp.s
 .PHONY : BreadthFirstSeaerchProblem/Solution752.cpp.s
 
-DoublePointerProblem/DoublePointerArrayProblem/Solution26.o: DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution26.o
-
-# target to build an object file
-DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o
-
-DoublePointerProblem/DoublePointerArrayProblem/Solution26.i: DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution26.i
-
-# target to preprocess a source file
-DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i
-
-DoublePointerProblem/DoublePointerArrayProblem/Solution26.s: DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution26.s
-
-# target to generate assembly for a file
-DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s
-
-DoublePointerProblem/DoublePointerArrayProblem/Solution283.o: DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution283.o
-
-# target to build an object file
-DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o
-
-DoublePointerProblem/DoublePointerArrayProblem/Solution283.i: DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution283.i
-
-# target to preprocess a source file
-DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i
-
-DoublePointerProblem/DoublePointerArrayProblem/Solution283.s: DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution283.s
-
-# target to generate assembly for a file
-DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s
-
-DoublePointerProblem/DoublePointerArrayProblem/Solution5.o: DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution5.o
-
-# target to build an object file
-DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o
-
-DoublePointerProblem/DoublePointerArrayProblem/Solution5.i: DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution5.i
-
-# target to preprocess a source file
-DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i
-
-DoublePointerProblem/DoublePointerArrayProblem/Solution5.s: DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution5.s
-
-# target to generate assembly for a file
-DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.o: DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.o
-
-# target to build an object file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.i: DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.i
-
-# target to preprocess a source file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.s: DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.s
-
-# target to generate assembly for a file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.o: DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.o
-
-# target to build an object file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.i: DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.i
-
-# target to preprocess a source file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.s: DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.s
-
-# target to generate assembly for a file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.o: DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.o
-
-# target to build an object file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.i: DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.i
-
-# target to preprocess a source file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.s: DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.s
-
-# target to generate assembly for a file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.o: DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.o
-
-# target to build an object file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.i: DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.i
-
-# target to preprocess a source file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.s: DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.s
-
-# target to generate assembly for a file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.o: DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.o
-
-# target to build an object file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.i: DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.i
-
-# target to preprocess a source file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.s: DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.s
-
-# target to generate assembly for a file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.o: DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.o
-
-# target to build an object file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.i: DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.i
-
-# target to preprocess a source file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.s: DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.s
-
-# target to generate assembly for a file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.o: DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.o
-
-# target to build an object file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.i: DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.i
-
-# target to preprocess a source file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i
-
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.s: DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.s
-
-# target to generate assembly for a file
-DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s
-.PHONY : DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s
-
-DoublePointerProblem/SlidingWindowProblem/Solution3.o: DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution3.o
-
-# target to build an object file
-DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o
-
-DoublePointerProblem/SlidingWindowProblem/Solution3.i: DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution3.i
-
-# target to preprocess a source file
-DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i
-
-DoublePointerProblem/SlidingWindowProblem/Solution3.s: DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution3.s
-
-# target to generate assembly for a file
-DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s
-
-DoublePointerProblem/SlidingWindowProblem/Solution438.o: DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution438.o
-
-# target to build an object file
-DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o
-
-DoublePointerProblem/SlidingWindowProblem/Solution438.i: DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution438.i
-
-# target to preprocess a source file
-DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i
-
-DoublePointerProblem/SlidingWindowProblem/Solution438.s: DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution438.s
-
-# target to generate assembly for a file
-DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s
-
-DoublePointerProblem/SlidingWindowProblem/Solution567.o: DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution567.o
-
-# target to build an object file
-DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o
-
-DoublePointerProblem/SlidingWindowProblem/Solution567.i: DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution567.i
-
-# target to preprocess a source file
-DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i
-
-DoublePointerProblem/SlidingWindowProblem/Solution567.s: DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution567.s
-
-# target to generate assembly for a file
-DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s
-
-DoublePointerProblem/SlidingWindowProblem/Solution76.o: DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution76.o
-
-# target to build an object file
-DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o
-
-DoublePointerProblem/SlidingWindowProblem/Solution76.i: DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution76.i
-
-# target to preprocess a source file
-DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i
-
-DoublePointerProblem/SlidingWindowProblem/Solution76.s: DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution76.s
-
-# target to generate assembly for a file
-DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s
-.PHONY : DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s
-
-DoublePointerProblem/SlidingWindowProblem/template.o: DoublePointerProblem/SlidingWindowProblem/template.cpp.o
-.PHONY : DoublePointerProblem/SlidingWindowProblem/template.o
-
-# target to build an object file
-DoublePointerProblem/SlidingWindowProblem/template.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.o
-.PHONY : DoublePointerProblem/SlidingWindowProblem/template.cpp.o
-
-DoublePointerProblem/SlidingWindowProblem/template.i: DoublePointerProblem/SlidingWindowProblem/template.cpp.i
-.PHONY : DoublePointerProblem/SlidingWindowProblem/template.i
-
-# target to preprocess a source file
-DoublePointerProblem/SlidingWindowProblem/template.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.i
-.PHONY : DoublePointerProblem/SlidingWindowProblem/template.cpp.i
-
-DoublePointerProblem/SlidingWindowProblem/template.s: DoublePointerProblem/SlidingWindowProblem/template.cpp.s
-.PHONY : DoublePointerProblem/SlidingWindowProblem/template.s
-
-# target to generate assembly for a file
-DoublePointerProblem/SlidingWindowProblem/template.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DoublePointerProblem/SlidingWindowProblem/template.cpp.s
-.PHONY : DoublePointerProblem/SlidingWindowProblem/template.cpp.s
-
 DynamicProgramProblem/Solution322.o: DynamicProgramProblem/Solution322.cpp.o
 .PHONY : DynamicProgramProblem/Solution322.o
 
@@ -968,6 +608,390 @@ DynamicProgramProblem/maxProfit/Solution714.s: DynamicProgramProblem/maxProfit/S
 DynamicProgramProblem/maxProfit/Solution714.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/DynamicProgramProblem/maxProfit/Solution714.cpp.s
 .PHONY : DynamicProgramProblem/maxProfit/Solution714.cpp.s
+
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.o: PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.o
+
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.i: PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.i
+
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.s: PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp.s
+
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.o: PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.o
+
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.i: PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.i
+
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.s: PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp.s
+
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.o: PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.o
+
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.i: PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.i
+
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.s: PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp.s
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.o: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.o
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.i: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.i
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.s: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp.s
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.o: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.o
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.i: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.i
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.s: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp.s
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.o: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.o
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.i: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.i
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.s: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp.s
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.o: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.o
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.i: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.i
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.s: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp.s
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.o: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.o
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.i: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.i
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.s: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp.s
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.o: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.o
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.i: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.i
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.s: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp.s
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.o: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.o
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.i: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.i
+
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.s: PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp.s
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.o: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.o
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.i: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.i
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.s: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp.s
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.o: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.o
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.i: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.i
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.s: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp.s
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.o: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.o
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.i: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.i
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.s: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp.s
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.o: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.o
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.i: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.i
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.s: PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp.s
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.o: PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.o
+
+# target to build an object file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.o
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.o
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.i: PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.i
+
+# target to preprocess a source file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.i
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.i
+
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.s: PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.s
+
+# target to generate assembly for a file
+PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.s
+.PHONY : PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.cpp.s
+
+PointerProblem/ReverseListProblem/Solution206.o: PointerProblem/ReverseListProblem/Solution206.cpp.o
+.PHONY : PointerProblem/ReverseListProblem/Solution206.o
+
+# target to build an object file
+PointerProblem/ReverseListProblem/Solution206.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.o
+.PHONY : PointerProblem/ReverseListProblem/Solution206.cpp.o
+
+PointerProblem/ReverseListProblem/Solution206.i: PointerProblem/ReverseListProblem/Solution206.cpp.i
+.PHONY : PointerProblem/ReverseListProblem/Solution206.i
+
+# target to preprocess a source file
+PointerProblem/ReverseListProblem/Solution206.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.i
+.PHONY : PointerProblem/ReverseListProblem/Solution206.cpp.i
+
+PointerProblem/ReverseListProblem/Solution206.s: PointerProblem/ReverseListProblem/Solution206.cpp.s
+.PHONY : PointerProblem/ReverseListProblem/Solution206.s
+
+# target to generate assembly for a file
+PointerProblem/ReverseListProblem/Solution206.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Leetcode.dir/build.make CMakeFiles/Leetcode.dir/PointerProblem/ReverseListProblem/Solution206.cpp.s
+.PHONY : PointerProblem/ReverseListProblem/Solution206.cpp.s
 
 Solution769.o: Solution769.cpp.o
 .PHONY : Solution769.o
@@ -1491,51 +1515,6 @@ help:
 	@echo "... BreadthFirstSeaerchProblem/Solution752.o"
 	@echo "... BreadthFirstSeaerchProblem/Solution752.i"
 	@echo "... BreadthFirstSeaerchProblem/Solution752.s"
-	@echo "... DoublePointerProblem/DoublePointerArrayProblem/Solution26.o"
-	@echo "... DoublePointerProblem/DoublePointerArrayProblem/Solution26.i"
-	@echo "... DoublePointerProblem/DoublePointerArrayProblem/Solution26.s"
-	@echo "... DoublePointerProblem/DoublePointerArrayProblem/Solution283.o"
-	@echo "... DoublePointerProblem/DoublePointerArrayProblem/Solution283.i"
-	@echo "... DoublePointerProblem/DoublePointerArrayProblem/Solution283.s"
-	@echo "... DoublePointerProblem/DoublePointerArrayProblem/Solution5.o"
-	@echo "... DoublePointerProblem/DoublePointerArrayProblem/Solution5.i"
-	@echo "... DoublePointerProblem/DoublePointerArrayProblem/Solution5.s"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.o"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.i"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.s"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.o"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.i"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.s"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.o"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.i"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.s"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.o"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.i"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.s"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.o"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.i"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.s"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.o"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.i"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.s"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.o"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.i"
-	@echo "... DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.s"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution3.o"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution3.i"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution3.s"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution438.o"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution438.i"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution438.s"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution567.o"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution567.i"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution567.s"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution76.o"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution76.i"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/Solution76.s"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/template.o"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/template.i"
-	@echo "... DoublePointerProblem/SlidingWindowProblem/template.s"
 	@echo "... DynamicProgramProblem/Solution322.o"
 	@echo "... DynamicProgramProblem/Solution322.i"
 	@echo "... DynamicProgramProblem/Solution322.s"
@@ -1563,6 +1542,54 @@ help:
 	@echo "... DynamicProgramProblem/maxProfit/Solution714.o"
 	@echo "... DynamicProgramProblem/maxProfit/Solution714.i"
 	@echo "... DynamicProgramProblem/maxProfit/Solution714.s"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.o"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.i"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution26.s"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.o"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.i"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution283.s"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.o"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.i"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerArrayProblem/Solution5.s"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.o"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.i"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.s"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.o"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.i"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.s"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.o"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.i"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.s"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.o"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.i"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.s"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.o"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.i"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.s"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.o"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.i"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.s"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.o"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.i"
+	@echo "... PointerProblem/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.s"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.o"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.i"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution3.s"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.o"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.i"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution438.s"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.o"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.i"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution567.s"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.o"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.i"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/Solution76.s"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.o"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.i"
+	@echo "... PointerProblem/DoublePointerProblem/SlidingWindowProblem/template.s"
+	@echo "... PointerProblem/ReverseListProblem/Solution206.o"
+	@echo "... PointerProblem/ReverseListProblem/Solution206.i"
+	@echo "... PointerProblem/ReverseListProblem/Solution206.s"
 	@echo "... Solution769.o"
 	@echo "... Solution769.i"
 	@echo "... Solution769.s"
