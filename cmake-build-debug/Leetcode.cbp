@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Leetcode"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Leetcode">
+				<Option output="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Leetcode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Leetcode"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Leetcode/fast">
+				<Option output="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Leetcode" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/12.0.5/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 Leetcode/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BackTrackProblem/Solution39.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BackTrackProblem/Solution40.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BackTrackProblem/Solution46.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BackTrackProblem/Solution47.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BackTrackProblem/Solution77.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BackTrackProblem/Solution78.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BackTrackProblem/Solution90.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BackTrackProblem/SolutionX.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BinaryTreeProblem/Traverse.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BinaryTreeProblem/TreeNode.h">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BreadthFirstSeaerchProblem/Solution111.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/BreadthFirstSeaerchProblem/Solution752.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution26.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution283.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerArrayProblem/Solution5.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution142.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution160.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution19.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution21.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution23.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution86.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/Solution876.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/DoublePointerLinkedListProblem/list.h">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution3.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution438.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution567.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/Solution76.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DoublePointerProblem/SlidingWindowProblem/template.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DynamicProgramProblem/Solution322.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DynamicProgramProblem/houseRobber/Solution198.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DynamicProgramProblem/houseRobber/Solution213.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DynamicProgramProblem/houseRobber/Solution337.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DynamicProgramProblem/maxProfit/Solution121.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DynamicProgramProblem/maxProfit/Solution122.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DynamicProgramProblem/maxProfit/Solution188.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DynamicProgramProblem/maxProfit/Solution309.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/DynamicProgramProblem/maxProfit/Solution714.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution769.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution792.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution801.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution805.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution813.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution862.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution864.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution864v1.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution886.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution891.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution895.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution901.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution907.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution934.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Solution940.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Week314Contest/Solution6204.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Week314Contest/Solution6205.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Week314Contest/Solution6207.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/Week314Contest/Solution6219.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/main.cpp">
+			<Option target="Leetcode"/>
+		</Unit>
+		<Unit filename="/Users/nieweihao/UESTC/Code/CppProjects/Leetcode/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
